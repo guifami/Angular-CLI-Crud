@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "MacBook Pro 2017",
+      "price": "8900",
+      "id": 1
+    },
+    {
+      "name": "Mouse Razer Deathadder",
+      "price": "129.90",
+      "id": 2
+    },
+    {
+      "name": "Samsung Galaxy S20 FE",
+      "price": "1799.90",
+      "id": 3
+    },
+    {
+      "name": "Teclado Keychron K2",
+      "price": "729.80",
+      "id": 4
+    },
+    {
+      "name": "Mousepad Glorious XXL",
+      "price": "259.90",
+      "id": 5
+    },
+    {
+      "name": "Notebook Dell Inspiron",
+      "price": "6399.00",
+      "id": 6
+    },
+    {
+      "name": "Sistema de Quiz",
+      "price": "399.90",
+      "id": 7
+    }
+  ]
+}
