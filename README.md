@@ -7,11 +7,11 @@ Portal de gerenciamento de produtos com dados mockados.<br>
 
 Seguintes comandos para execução com os dados mockados:
 
-**`npm install -g json-server`** (Pasta raíz)
+`npm install -g json-server` (Pasta raíz)
 <br>
-**`npm install`** (pasta frontend)
+`npm install` (pasta frontend)
 <br>
 <br>
-**`json-server --watch db.json`** (Pasta backend)
+`json-server --watch db.json` (Pasta backend)
 <br>
-**`ng serve -o`** (Pasta frontend)
+`ng serve -o` (Pasta frontend)
