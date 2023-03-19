@@ -9,7 +9,7 @@ Seguintes comandos para execução com os dados mockados:
 
 `npm install -g json-server` (Pasta raíz)
 <br>
-`npm install` (pasta frontend)
+`npm install` (Pasta frontend)
 <br>
 <br>
 `json-server --watch db.json` (Pasta backend)
